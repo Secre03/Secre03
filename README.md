@@ -23,14 +23,6 @@
 
 ---
 
-## 🚀 My Projects (School & Personal)
-- 📁 [Login-System](https://github.com/Secre03/Login-System) — PHP login & registration
-- 📁 [Taskmanagement](https://github.com/Secre03/Taskmanagement) — JS task tracker
-- 📁 [JMJ-Gadgets](https://github.com/Secre03/JMJ-Gadgets) — JS gadgets store
-- 📁 [JS-Review](https://github.com/Secre03/JS-Review) — my JS practice notes
-
----
-
 ## 🌐 Portfolio & Contact
 🔗 https://markmilano03-9not.vercel.app/
 📧 markmilano112@gmail.com
