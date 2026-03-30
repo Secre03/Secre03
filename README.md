@@ -1,6 +1,6 @@
 # Hey there! I'm Mark Milano 👋
 
-🎓 CS Student from Albay, Philippines 🇵🇭
+🎓 IT Student from Albay, Philippines 🇵🇭
 🌱 Currently learning web development one project at a time
 💡 I build things to practice what I study
 🔍 Open to feedback, collaborations, and opportunities
