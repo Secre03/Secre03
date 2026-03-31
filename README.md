@@ -1,4 +1,4 @@
-# Hey there! I'm Mark Milano 👋
+# Hey there! I'm Mark John L. Milano 👋
 
 🎓 IT Student from Albay, Philippines 🇵🇭
 🌱 Currently learning web development one project at a time
